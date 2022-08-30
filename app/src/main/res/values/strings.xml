@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Swift circles</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="end">End</string>
+    <string name="del_record">Delete record</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_nickname">Enter your nickname</string>
+    <string name="sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sound">Sound</string>
+    <string name="title_activity_about_app">AboutApp</string>
+    <string name="about_app">About App</string>
+    <string name="title_activity_test">test</string>
+    <string name="developed_by">Developed by \nAlexander Kozminykh</string>
+    <string name="email"><a href="mailto:sa.kozminykh@gmail.com">Email</a></string>
+    <string name="music_by">Music:</string>
+    <string name="bensound"><a href="https://www.bensound.com/">Bensound.com</a></string>
+    <string name="your_string"><![CDATA[Email: <a href=\"mailto:sa.kozminykh@gmail.com\">sa.kozminykh@gmail.com</a>]]></string>
+</resources>

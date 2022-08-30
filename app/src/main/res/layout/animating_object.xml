@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animating_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/animating_object"
+        android:layout_width="1px"
+        android:layout_height="1px"
+        android:layout_gravity="center"
+        android:alpha="0"
+        android:background="@drawable/oval_blue"/>
+
+    <ImageView
+        android:id="@+id/animating_object1"
+        android:layout_width="1px"
+        android:layout_height="1px"
+        android:alpha="0"
+        android:layout_gravity="center"
+        android:src="@drawable/oval_white"/>
+</FrameLayout>

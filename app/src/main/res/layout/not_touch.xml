@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:id="@+id/not_touch"
+        android:layout_width="1px"
+        android:layout_height="1px"
+        android:alpha="0"
+        android:layout_gravity="center"
+        android:background="@drawable/oval_red"/>
+
+</FrameLayout>

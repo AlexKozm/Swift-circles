@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "155953344247",
+    "firebase_url": "https://swift-circles.firebaseio.com",
+    "project_id": "swift-circles",
+    "storage_bucket": "swift-circles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155953344247:android:9b3ede620209b4d2",
+        "android_client_info": {
+          "package_name": "com.alexander.kozminykh.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155953344247-70rl4025kbbfmeujlpt02fdcdfrfjcl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alexander.kozminykh.game",
+            "certificate_hash": "7eb227b5c4b3331ec44423a1a11238f72f85b8bc"
+          }
+        },
+        {
+          "client_id": "155953344247-qb8lenbi2iqu91umhibj8t2a8vt7mnnn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "155953344247-qb8lenbi2iqu91umhibj8t2a8vt7mnnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehilITsKlNJyq5ZLEQOiUj3kptirC_BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155953344247-qb8lenbi2iqu91umhibj8t2a8vt7mnnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
