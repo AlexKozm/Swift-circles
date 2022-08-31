@@ -27,4 +27,5 @@ Actually it was in Google Play but it was deleted because of
 
 So now you can download it from GitHub!
 
-+ <a href="./app/release/app-release.apk" download> Click to Download</a>
++ [Click to Download .apk](https://github.com/AlexKozm/Swift-circles/blob/master/app/release/app-release.apk)
+<!-- + <a href="./app/release/app-release.apk" download> Click to Download</a> -->
